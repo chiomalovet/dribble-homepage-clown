@@ -8,3 +8,8 @@
   .footer-text-black { text-decoration: none;
     color: #000; /* Set the color to black */
   }
+  .vertical-line {
+    border-left: 2px solid #000; /* 2px wide solid black line */
+    height: 100%; /* Full height line */
+  }
+  
