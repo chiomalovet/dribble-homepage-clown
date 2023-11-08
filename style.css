@@ -1,0 +1,10 @@
+.red-underline {
+    text-decoration: none; /* Remove the default underline */
+    border-bottom: 4px solid rgb(235, 12, 186); /* Adjust the width and color as needed */
+  }
+  hr{
+    border-bottom: 10px solid rgb(70, 66, 69)
+  }
+  .footer-text-black { text-decoration: none;
+    color: #000; /* Set the color to black */
+  }
